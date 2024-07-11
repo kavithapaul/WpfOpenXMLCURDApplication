@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfOpenXMLCURDApplication", "WpfOpenXMLCURDApplication\WpfOpenXMLCURDApplication.csproj", "{4FBB9FE3-9DCF-4E54-A773-1F3DC1121AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FBB9FE3-9DCF-4E54-A773-1F3DC1121AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBB9FE3-9DCF-4E54-A773-1F3DC1121AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBB9FE3-9DCF-4E54-A773-1F3DC1121AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBB9FE3-9DCF-4E54-A773-1F3DC1121AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72E6B58F-49DA-43C9-A9C7-E7111D432597}
+	EndGlobalSection
+EndGlobal
